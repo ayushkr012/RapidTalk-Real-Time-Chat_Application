@@ -5,7 +5,7 @@ RSA Algorithm is used for end to end encryption and decryption.
 
 FrontEnd Technologies- HTML, CSS, JS
 
-BackEnd Technologies- JavaScript, Node.js
+BackEnd Technologies- JavaScript, Node.js ,Express.Js
 
 Used Socket.io module for a two-way connection between client and server.
 
